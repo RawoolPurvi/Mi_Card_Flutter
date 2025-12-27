@@ -1,1 +1,3 @@
-# Mi_Card_Flutter
+This is my first Flutter UI screen designed as a personal profile page. The screen features a clean and minimal layout with a calming teal background, a circular profile image at the center, and clearly presented personal details. It highlights my name and role as a Flutter Developer, followed by neatly styled contact cards for phone number and email address.
+
+The UI focuses on simplicity, readability, and visual balance, using Flutter widgets such as Column, CircleAvatar, Container, and custom styling to create a modern and professional look. This page serves as a foundational step in my Flutter journey, showcasing my understanding of layout structuring, styling, and responsive design principles.

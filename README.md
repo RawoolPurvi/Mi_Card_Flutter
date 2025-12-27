@@ -1,16 +1,3 @@
-# christmas
+This is my first Flutter UI screen designed as a personal profile page. The screen features a clean and minimal layout with a calming teal background, a circular profile image at the center, and clearly presented personal details. It highlights my name and role as a Flutter Developer, followed by neatly styled contact cards for phone number and email address.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The UI focuses on simplicity, readability, and visual balance, using Flutter widgets such as Column, CircleAvatar, Container, and custom styling to create a modern and professional look. This page serves as a foundational step in my Flutter journey, showcasing my understanding of layout structuring, styling, and responsive design principles.
